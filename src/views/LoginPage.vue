@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import { ref, defineComponent } from "vue";
+import { defineComponent } from "vue";
 import useLogin from "@/composables/useLogin";
 
 export default defineComponent({
